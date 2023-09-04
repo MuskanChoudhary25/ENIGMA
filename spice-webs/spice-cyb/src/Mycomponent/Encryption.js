@@ -54,7 +54,8 @@ const Encryption = () => {
 <br></br>
 
 <div id="imen">
-    <div id="img">Add image to Encrypt</div>
+   
+    <div id="img" ><a id="enc" href="/Img" >Add image to Encrypt</a></div>
     <div id="res">Encrypted Image</div>
     </div>
 <br></br>

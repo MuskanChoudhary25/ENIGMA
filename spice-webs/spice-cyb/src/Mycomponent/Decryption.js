@@ -28,7 +28,8 @@ const decryption = () => {
 <br></br>
 
 <div id="imen">
-    <div id="img">Add image to decrypt</div>
+<div id="img" ><a id="enc" href="/Img" >Add image to Decrypt</a></div>
+    
     <div id="res">Decrypted Image</div>
     </div>
 <br></br>
